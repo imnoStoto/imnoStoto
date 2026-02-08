@@ -1,16 +1,29 @@
-## Hi there 👋
+# Sean Stoto
 
-<!--
-**imnoStoto/imnoStoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operationally focused IT and systems support professional with a background in data integrity, access-controlled environments, and documentation-driven troubleshooting. I specialize in validating system behavior, maintaining accurate records, and supporting reliable day-to-day operations in compliance-sensitive contexts.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Physical security systems support (access integrity, provisioning hygiene, audit readiness)
+- Tier-1 / Tier-1.5 troubleshooting across device, network, and application layers
+- Incident documentation, escalation notes, and runbook-driven operations
+- Data quality validation and structured testing
+- Least-privilege access principles and access lifecycle awareness
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Foundation
+- **Operating Systems:** Windows, macOS, Linux  
+- **Networking Fundamentals:** TCP/IP, DNS, DHCP, basic connectivity diagnostics  
+- **Tools & Languages:** Python, SQL, Git, CLI tooling  
+- **Platforms:** Microsoft 365, API-based workflows  
+- **Practices:** SOPs, runbooks, validation checklists, audit-friendly documentation
+
+## Pinned Work
+- **Physical Security Data Integrity (Mock)**  
+  Tools, runbooks, and audit-style validation workflows for access control data  
+  → https://github.com/imnoStoto/access-ctrl-data-int
+
+- **System Monitoring & Diagnostics**  
+  Read-only system monitoring with structured output and troubleshooting notes  
+  → https://github.com/imnoStoto/system-stats
+
+## Notes
+All repositories use **mock or sanitized data only**. No proprietary systems, credentials, or sensitive information are included.  
