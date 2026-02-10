@@ -7,7 +7,6 @@ Operationally focused IT and systems support professional with a background in d
 - Tier-1 / Tier-1.5 troubleshooting across device, network, and application layers
 - Incident documentation, escalation notes, and runbook-driven operations
 - Data quality validation and structured testing
-- Least-privilege access principles and access lifecycle awareness
 
 ## Technical Foundation
 - **Operating Systems:** Windows, macOS, Linux  
