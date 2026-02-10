@@ -1,6 +1,6 @@
 # Sean Stoto
 
-Operationally focused IT and systems support professional with a background in data integrity, access-controlled environments, and documentation-driven troubleshooting. I specialize in validating system behavior, maintaining accurate records, and supporting reliable day-to-day operations in compliance-sensitive contexts.
+Operationally focused IT and systems support professional with a background in data integrity, access-controlled environments, and documentation-driven troubleshooting. 
 
 ## Focus Areas
 - Physical security systems support (access integrity, provisioning hygiene, audit readiness)
