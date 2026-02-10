@@ -3,6 +3,7 @@
 Operationally focused IT and systems support. 
 
 ## Focus Areas
+- Audio signal processing
 - Tier-1 / Tier-1.5 troubleshooting across device, network, and application layers
 - Incident documentation, escalation notes, and runbook-driven operations
 - Data quality validation and structured testing
