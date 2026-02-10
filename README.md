@@ -1,6 +1,6 @@
 # Sean Stoto
 
-Operationally focused IT and systems support. Background in data integrity, access-controlled environments, and documentation-driven troubleshooting. 
+Operationally focused IT and systems support. 
 
 ## Focus Areas
 - Tier-1 / Tier-1.5 troubleshooting across device, network, and application layers
