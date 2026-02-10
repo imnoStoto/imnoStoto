@@ -12,8 +12,7 @@ Operationally focused IT and systems support professional with a background in d
 - **Operating Systems:** Windows, macOS, Linux  
 - **Networking Fundamentals:** TCP/IP, DNS, DHCP, basic connectivity diagnostics  
 - **Tools & Languages:** Python, SQL, Git, CLI tooling  
-- **Platforms:** Microsoft 365, API-based workflows  
-- **Practices:** SOPs, runbooks, validation checklists, audit-friendly documentation
+- **Platforms:** Microsoft 365, API-based workflows
 
 ## Pinned Work
 - **Physical Security Data Integrity (Mock)**  
@@ -24,5 +23,3 @@ Operationally focused IT and systems support professional with a background in d
   Read-only system monitoring with structured output and troubleshooting notes  
   → https://github.com/imnoStoto/system-stats
 
-## Notes
-All repositories use **mock or sanitized data only**. No proprietary systems, credentials, or sensitive information are included.  
