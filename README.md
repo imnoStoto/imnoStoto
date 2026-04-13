@@ -9,10 +9,9 @@ Explorations into systems support functionality with the intent of learning.
 - Data quality validation and structured testing
 
 ## Technical Foundation
-- **Operating Systems:** Windows, macOS, Linux  
+- **Operating Systems:** macOS, Linux, Windows  
 - **Networking Fundamentals:** TCP/IP, DNS, DHCP, basic connectivity diagnostics  
 - **Tools & Languages:** Python, SQL, Git, CLI tooling  
-- **Platforms:** Microsoft 365, API-based workflows
 
 ## Pinned Work
 - **Physical Security Data Integrity (Mock)**  
