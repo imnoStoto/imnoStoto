@@ -1,6 +1,6 @@
 # Sean Stoto
 
-Operationally focused IT and systems support. 
+Explorations into systems support functionality with the intent of learning.
 
 ## Focus Areas
 - Audio signal processing
